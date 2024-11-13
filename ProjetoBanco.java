@@ -8,9 +8,7 @@ public class ProjetoBanco {
         double openingBalance = 0;
         double receiveValue = 0;
         double transferValue = 0;
-        double currentBalance = 0;
         int option = 0;
-        String goNext = "sim";
         String choseOptions = """
                 1 - Consultar saldos
                 2 - Transferir valor
